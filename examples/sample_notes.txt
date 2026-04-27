@@ -1,0 +1,5 @@
+Digital forensics involves identifying, preserving, analyzing, and presenting digital evidence.
+
+Chain of custody ensures integrity of collected evidence.
+
+Hashing algorithms like MD5 and SHA256 verify file authenticity.
